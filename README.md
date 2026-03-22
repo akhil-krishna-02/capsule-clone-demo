@@ -1,4 +1,4 @@
-# 🏆 Capsule - Awwwards SOTD Clone
+# 🏆 Capsule - Clone
 
 > ⚠️ **This Website Is Still Under Construction**
 
