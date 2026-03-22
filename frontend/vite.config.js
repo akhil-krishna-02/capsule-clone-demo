@@ -4,12 +4,12 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/capsule/',
-  plugins: [
-    tailwindcss(),
-    react()
-  ],
-  optimizeDeps: {
-    include: ["gsap"],
-  },
-});
+    plugins: [
+          tailwindcss(),
+          react()
+        ],
+    optimizeDeps: {
+          include: ["gsap"]
+    },
+    base: '/',
+})
