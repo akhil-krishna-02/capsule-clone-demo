@@ -1,8 +1,5 @@
 # 🏆 Capsule - Awwwards SOTD Clone
 
-![Capsule Showcase](https://raw.githubusercontent.com/ShowravKormokar/capsule/refs/heads/main/frontend/src/assets/showcase-img.png)
-
-
 > ⚠️ **This Website Is Still Under Construction**
 
 A faithful React.js clone of the **"awwwards"** ([Awwwards.com](https://www.awwwards.com/sites/capsules-r)) SOTD-winning **"Capsule"** website by Moyra ([capsule.moyra.co](https://capsule.moyra.co)), which won Awwwards Site of the Day. This project was built for learning purposes to master advanced frontend techniques like scroll-triggered animations, smooth page transitions, and responsive design.
@@ -13,7 +10,7 @@ A faithful React.js clone of the **"awwwards"** ([Awwwards.com](https://www.awww
 
 ## 🚀 Live Demo
 
-[View Live Project](https://showravkormokar.github.io/capsule/)
+[View Live Project](https://capsuleclonedemo-ak-akatsukix.vercel.app/)
 
 ## ✨ Features
 
@@ -28,7 +25,7 @@ A faithful React.js clone of the **"awwwards"** ([Awwwards.com](https://www.awww
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
 - **Animations:** [GSAP (GreenSock Animation Platform)](https://gsap.com/)
 - **Icons:** [React Icons](https://react-icons.github.io/react-icons/)
-- **Package Manager:** npm / yarn
+- **Package Manager:** npm
 
 ## 📦 Installation & Setup
 
@@ -36,10 +33,13 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/showravkormokar/capsule.git
-   cd capsule
+   git clone https://github.com/akhil-krishna-02/capsule-clone-demo.git
+   cd capsule-clone-demo/frontend
+   npm install
+   npm run dev
+   ```
 
 ## 🪧 Notice
 
-To build this website only study perpose and understanding animation and increase design knowledge.
+To build this website only study purpose and understanding animation and increase design knowledge.
 All rights reserve ([capsule.moyra.co](https://capsule.moyra.co))
